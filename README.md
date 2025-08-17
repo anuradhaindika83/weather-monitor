@@ -1,6 +1,24 @@
 # Weather Monitor
 
-The Weather Monitor solution consists of five projects and follows Clean Architecture principles:
+# Running the Application.
+If you are running from Visual Studio, you need to set WeatherMonitorWebAPI and WeatherMonitor as the startup projects. 
+Please go full screen for the best view.
+ 
+1. To change the station, hit [F4] or click the button at the top. 
+   Then, in the next screen, click on a station name.
+
+2. To select a data point, hit [F6] or click the button at the top. 
+   Then, in the next screen, click on a data point.
+
+3. Hit [F5] or click on the Refresh button to reset the view to the default station.
+ 
+4. The average temperature for the selected station will be displayed on the status bar at the bottom. 
+   There are a bunch of other details as well.
+
+   ![Alt text](img.png)
+
+
+The Weather Monitor solution consists of five projects and follows Clean Architecture principles
 
 1. **WeatherMonitor.Domain** - Domain Layer
 2. **WeatherMonitor.Infrastructure** - Infrastructure Layer
@@ -24,19 +42,6 @@ This is a Web API application that exposes some functionalities using minimal AP
 This is being built using TUI (Terminal UI v2). It gives more features to the end users. 
 The users can use the mouse for navigation and can utilize the mouse scroll or Page-Up/Page-Down keys to scroll the table. 
 
-Please go full screen for the best view.
- 
-1. To change the station, hit [F4] or click the button at the top. 
-   Then, in the next screen, click on a station name.
 
-2. To select a data point, hit [F6] or click the button at the top. 
-   Then, in the next screen, click on a data point.
-
-3. Hit [F5] or click on the Refresh button to reset the view to the default station.
- 
-4. The average temperature for the selected station will be displayed on the status bar at the bottom. 
-   There are a bunch of other details as well.
-
-   ![Alt text](img.png)
 
 
