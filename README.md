@@ -37,4 +37,6 @@ Please go full screen for the best view.
 4. The average temperature for the selected station will be displayed on the status bar at the bottom. 
    There are a bunch of other details as well.
 
+   ![Alt text](img.png)
+
 
