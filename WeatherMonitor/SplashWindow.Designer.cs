@@ -80,15 +80,15 @@ namespace WeatherMonitor.GUI {
 Hi! This UI was built using TUI (Terminal UI) v2. You can use the mouse for navigation.
 Please go full screen for the best view.
  
-1. To change the station hit [F4] or click the button on the top. 
-   Then in the next screen, click on a station name.
+1. To change the station, hit [F4] or click the button at the top. 
+   Then, in the next screen, click on a station name.
 
-2. To select a data-point hit [F6] or click the button on the top. 
-   Then in the next screen, click on a data-point.
+2. To select a data-point hit [F6] or click the button at the top. 
+   Then, in the next screen, click on a data-point.
 
 3. Hit [F5] or click on the Refresh button to reset the view to default station.
  
-4. The average temperature for the selected station will get displayed on the status bar at the bottom. 
+4. The average temperature for the selected station will be displayed on the status bar at the bottom. 
    There are bunch of other details as well.
 
 Please hit [Enter] to continue or the application will start in 1 minute. 
